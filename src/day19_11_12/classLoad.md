@@ -13,23 +13,8 @@
 ## JVM学习
 ### JVM学习（什么是JVM及历史来源）
 ### JVM学习（栈）
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/msqiao/study_java/blob/master/src/day19_11_12/QQ20180414-203816.png)<br>
+内存模型图
 
 解释：<br>
 1、Java栈（虚拟机栈）内存空间是连续的，有大小限制，如果超出会报StackOverFlowError异常，也就是栈溢出，原因是栈帧堆满了栈。<br>
