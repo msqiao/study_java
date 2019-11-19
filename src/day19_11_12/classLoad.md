@@ -5,7 +5,7 @@
 
 ## Java源代码到机器识别的过程
 首先，先看如下图：
-![image](https://github.com/msqiao/study_java/blob/master/src/day19_11_12/QQ20180414-203816.png)
+![image](https://github.com/msqiao/study_java/blob/master/src/day19_11_12/源代码到机器码识别.png)
 
 前端编译：指与源语言相关与目标机器无关的部分，包括词法、语法、语义分析和中间代码.class文件的生成。
 后端编译：指与目标机器相关的部分，包括代码优化和机器识别的指令生成。
@@ -13,8 +13,11 @@
 ## JVM学习
 ### JVM学习（什么是JVM及历史来源）
 ### JVM学习（栈）
-![image](https://github.com/msqiao/study_java/blob/master/src/day19_11_12/QQ20180414-203816.png)<br>
+![image](https://github.com/msqiao/study_java/blob/master/src/day19_11_12/内存模型图.png)<br>
 内存模型图
+
+![image](https://github.com/msqiao/study_java/blob/master/src/day19_11_12/堆栈分配图.png)<br>
+堆栈分配图
 
 解释：<br>
 1、Java栈（虚拟机栈）内存空间是连续的，有大小限制，如果超出会报StackOverFlowError异常，也就是栈溢出，原因是栈帧堆满了栈。<br>
@@ -34,7 +37,8 @@
 ### JVM学习（内存分配和回收策略）
 
 ### JVM学习（内存结构）
-
+![image](https://github.com/msqiao/study_java/blob/master/src/day19_11_12/JVM学习内存结构.png)<br>
+JVM内存结构
 
 ### JVM学习（内存模型）
 ### JVM学习（对象模型）
