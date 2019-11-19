@@ -14,7 +14,7 @@
 ### JVM学习（什么是JVM及历史来源）
 ### JVM学习（栈）
 ![image](https://github.com/msqiao/study_java/blob/master/src/day19_11_12/内存模型图.png)<br>
-<p>内存模型图</p>
+内存模型图
 
 ![image](https://github.com/msqiao/study_java/blob/master/src/day19_11_12/堆栈分配图.png)<br>
 堆栈分配图
